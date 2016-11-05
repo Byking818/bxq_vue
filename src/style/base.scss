@@ -1,0 +1,30 @@
+// SCSS
+body {
+	font-size: 1.2rem;
+	background-color: #EAE4E4;
+}
+h1 {
+	font-size: 2.5rem;
+}
+#back {
+	position: absolute;
+	left: 3px;
+	width: 3.5rem;
+	height: 100%;
+	margin-top: .5rem;
+	img {
+		width: 100%;
+		height: 2rem;
+	}
+}
+header,
+footer {
+	position: fixed;
+	left: 0;
+	width: 100%;
+	height: 4rem;
+	font-size: 1.8rem;
+	background: #99F;
+	text-align: center;
+	line-height: 4rem;	
+}
